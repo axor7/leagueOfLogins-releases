@@ -1,13 +1,13 @@
 {
   "format": 1,
-  "updatedAt": "2026-10-24T23:56:49+00:00",
+  "updatedAt": "2026-10-25T10:53:43+00:00",
   "targetPhase": "6",
   "done": 20,
   "total": 34,
   "current": {
     "phase": "5",
     "name": "Bilder und Spielnamen",
-    "step": "Vorbereitung"
+    "step": "Planung"
   },
   "phases": [
     {
