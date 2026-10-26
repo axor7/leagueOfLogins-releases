@@ -1,13 +1,13 @@
 {
   "format": 1,
-  "updatedAt": "2026-10-26T06:04:29+00:00",
-  "targetPhase": "6",
+  "updatedAt": "2026-10-26T08:02:51+00:00",
+  "targetPhase": "6.1",
   "done": 24,
   "total": 34,
   "current": {
     "phase": "6",
     "name": "App-Grundgerüst",
-    "step": "Vorbereitung"
+    "step": "Planung"
   },
   "phases": [
     {
@@ -38,6 +38,11 @@
     {
       "phase": "6",
       "name": "App-Grundgerüst",
+      "done": false
+    },
+    {
+      "phase": "6.1",
+      "name": "Tray, Schnellwahl, Export und Stabil-Release",
       "done": false
     }
   ]
