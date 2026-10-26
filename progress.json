@@ -44,6 +44,21 @@
       "phase": "6.1",
       "name": "Tray, Schnellwahl, Export und Stabil-Release",
       "done": false
+    },
+    {
+      "phase": "7",
+      "name": "Erfassung aus dem Client",
+      "done": false
+    },
+    {
+      "phase": "8",
+      "name": "Rang, LP-Verlauf und Statistiken",
+      "done": false
+    },
+    {
+      "phase": "9",
+      "name": "Inventar-Ansicht und Suche",
+      "done": false
     }
   ]
 }
