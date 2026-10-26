@@ -1,13 +1,13 @@
 {
   "format": 1,
-  "updatedAt": "2026-10-25T10:53:43+00:00",
+  "updatedAt": "2026-10-26T06:04:29+00:00",
   "targetPhase": "6",
-  "done": 20,
+  "done": 24,
   "total": 34,
   "current": {
-    "phase": "5",
-    "name": "Bilder und Spielnamen",
-    "step": "Planung"
+    "phase": "6",
+    "name": "App-Grundgerüst",
+    "step": "Vorbereitung"
   },
   "phases": [
     {
@@ -33,7 +33,7 @@
     {
       "phase": "5",
       "name": "Bilder und Spielnamen",
-      "done": false
+      "done": true
     },
     {
       "phase": "6",
