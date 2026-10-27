@@ -1,13 +1,13 @@
 {
   "format": 1,
-  "updatedAt": "2026-10-27T06:37:32+00:00",
+  "updatedAt": "2026-10-27T06:52:54+00:00",
   "targetPhase": "6.1",
   "done": 24,
   "total": 34,
   "current": {
     "phase": "6",
     "name": "App-Grundgerüst",
-    "step": "Umsetzung, 25 von 29 Plänen fertig"
+    "step": "Umsetzung, 26 von 29 Plänen fertig"
   },
   "phases": [
     {
