@@ -1,13 +1,13 @@
 {
   "format": 1,
-  "updatedAt": "2026-10-28T21:19:06+00:00",
+  "updatedAt": "2026-10-28T22:15:18+00:00",
   "targetPhase": "9",
   "done": 33,
   "total": 48,
   "current": {
     "phase": "7",
     "name": "Erfassung aus dem Client",
-    "step": "Vorbereitung"
+    "step": "Planung"
   },
   "phases": [
     {
