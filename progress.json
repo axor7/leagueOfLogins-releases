@@ -1,13 +1,13 @@
 {
   "format": 1,
-  "updatedAt": "2026-10-28T05:33:34+00:00",
+  "updatedAt": "2026-10-28T05:42:05+00:00",
   "targetPhase": "6.1",
   "done": 28,
   "total": 34,
   "current": {
     "phase": "6.1",
     "name": "Tray, Schnellwahl, Export und Stabil-Release",
-    "step": "Umsetzung, 15 von 28 Plänen fertig"
+    "step": "Umsetzung, 16 von 28 Plänen fertig"
   },
   "phases": [
     {
