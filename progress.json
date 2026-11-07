@@ -1,13 +1,13 @@
 {
   "format": 1,
-  "updatedAt": "2026-11-02T17:19:08+00:00",
+  "updatedAt": "2026-11-07T17:37:45+00:00",
   "targetPhase": "9",
   "done": 39,
-  "total": 50,
+  "total": 51,
   "current": {
     "phase": "8",
     "name": "Rang, LP-Verlauf und Statistiken",
-    "step": "Vorbereitung"
+    "step": "Planung"
   },
   "phases": [
     {
@@ -53,6 +53,11 @@
     {
       "phase": "8",
       "name": "Rang, LP-Verlauf und Statistiken",
+      "done": false
+    },
+    {
+      "phase": "8.1",
+      "name": "Alle aktualisieren über den Riot-Worker",
       "done": false
     },
     {
