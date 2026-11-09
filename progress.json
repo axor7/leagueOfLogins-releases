@@ -1,13 +1,13 @@
 {
   "format": 1,
-  "updatedAt": "2026-11-09T12:04:15+00:00",
+  "updatedAt": "2026-11-09T12:33:43+00:00",
   "targetPhase": "9",
   "done": 42,
   "total": 51,
   "current": {
     "phase": "8",
     "name": "Rang, LP-Verlauf und Statistiken",
-    "step": "Umsetzung, 22 von 26 Plänen fertig"
+    "step": "Umsetzung, 22 von 29 Plänen fertig"
   },
   "phases": [
     {
