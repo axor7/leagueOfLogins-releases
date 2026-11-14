@@ -1,9 +1,9 @@
 {
   "format": 1,
-  "updatedAt": "2026-11-14T10:16:23+00:00",
+  "updatedAt": "2026-11-14T11:52:13+00:00",
   "targetPhase": "9",
   "done": 45,
-  "total": 51,
+  "total": 56,
   "current": {
     "phase": "8.1",
     "name": "Alle aktualisieren über den Riot-Worker",
