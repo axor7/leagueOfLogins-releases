@@ -1,13 +1,13 @@
 {
   "format": 1,
-  "updatedAt": "2026-11-14T13:31:59+00:00",
+  "updatedAt": "2026-11-15T00:43:01+00:00",
   "targetPhase": "9",
   "done": 45,
   "total": 56,
   "current": {
-    "phase": "8.1",
-    "name": "Alle aktualisieren über den Riot-Worker",
-    "step": "Vorbereitung"
+    "phase": "9",
+    "name": "Inventar-Ansicht und Suche",
+    "step": "Umsetzung, 0 von 29 Plänen fertig"
   },
   "phases": [
     {
