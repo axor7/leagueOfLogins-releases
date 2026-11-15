@@ -1,13 +1,13 @@
 {
   "format": 1,
-  "updatedAt": "2026-11-15T20:32:26+00:00",
+  "updatedAt": "2026-11-15T20:52:05+00:00",
   "targetPhase": "9",
   "done": 45,
   "total": 56,
   "current": {
     "phase": "9",
     "name": "Inventar-Ansicht und Suche",
-    "step": "Umsetzung, 7 von 35 Plänen fertig"
+    "step": "Umsetzung, 8 von 35 Plänen fertig"
   },
   "phases": [
     {
